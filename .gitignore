@@ -1,1 +1,4 @@
 *_backup/*
+Code/*/.vs
+Code/*/bin
+Code/*/obj
